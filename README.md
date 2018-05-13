@@ -1,2 +1,2 @@
 # clima-ios
-iOS/Swift weather app using OpenWeatherMap API
+Clima is a iOS (Swift) weather app created using the OpenWeatherMap API. Functionalities include displaying the weather in current location & also by searching. Android version also available: https://github.com/lucastan96/clima-android
